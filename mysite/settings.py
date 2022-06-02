@@ -26,7 +26,7 @@ SECRET_KEY = '=2d*0-%l@xo1+6a^9@&e3#mz9j0(9r&^xlt$d@4y59(y$xx37%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*',127.0.0.1', 'phishing-websites.herokuapp.com','phishing--detection--app.herokuapp.com']
+ALLOWED_HOSTS = ['*', '127.0.0.1', 'phishing-websites.herokuapp.com', 'phishing--detection--app.herokuapp.com']
 
 
 # Application definition
